@@ -1,6 +1,6 @@
 # Wolf - 360º Product Viewer
 
-Wolf is a 360º Product Viewer built with pure javascript and css.
+Wolf is a small, fast and responsive 360º Product Viewer built with pure javascript and css.
 
 - [Goals](#goals)
 - [Usage](#usage)
