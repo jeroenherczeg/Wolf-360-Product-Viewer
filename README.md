@@ -22,7 +22,7 @@ Wolf is a 360º Product Viewer built with pure javascript and css.
 
 ``` html
 // include wolf.js in your page
-<script src="PATH/TO//wolf.min.js"></script>
+<script src="PATH/TO/wolf.min.js"></script>
 
 // add a class **wolf** to your first image, you can override default values with the data-attribute
 <img src="PATH/TO/product01.jpg" class="wolf">
