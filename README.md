@@ -6,10 +6,11 @@ Wolf is a 360º Product Viewer built with pure javascript and css.
 - Minimal UI with great UX
 - Easy to change style
 - Opinionated Configuration
-- No javascript libraries necessary (jQuery, Zepto, ...)
+- No javascript libraries (jQuery, Zepto, ...)
 - Lightweight
 - Fast
 - Code is easy to understand and changed
+- No support for older browsers IE8 <
 
 ## Status
 
