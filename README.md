@@ -9,7 +9,7 @@ Wolf is a 360º Product Viewer built with pure javascript and css.
 - [Contribute](#contribute)
 
 ## Goals
-- Minimal UI with great UX
+- Minimal responsive UI with great UX
 - Easy to change style
 - Opinionated Configuration
 - Native javascript, no libraries (jQuery, Zepto, ...)
@@ -20,18 +20,17 @@ Wolf is a 360º Product Viewer built with pure javascript and css.
 
 ## Usage
 
-``` js
-window.viewer = Wolf(document.getElementById('viewer'));
+``` html
+// include wolf.js in your page
+<script src="PATH/TO//wolf.min.js"></script>
+
+// add a class **wolf** to your first image, you can override default values with the data-attribute
+<img src="PATH/TO/product01.jpg" class="wolf">
 ```
 
 ## Config Options
 
-- **start** Integer *(default:0)* - index position 
-
--	**sensitivity** Integer *(default:300)* - speed of rotation
-
-- **rotate** Integer - begin with auto rotation
-
+**data-number-of-images**  *Integer (default: 36)* - number of images
 
 ## Status
 
