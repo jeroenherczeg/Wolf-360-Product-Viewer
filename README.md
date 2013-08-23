@@ -2,11 +2,15 @@
 
 Wolf is a small, fast and responsive 360º Product Viewer built with pure javascript and css.
 
+- [Status](#status)
 - [Goals](#goals)
 - [Usage](#usage)
 - [Config Options](#config-options)
-- [Status](#status)
 - [Contribute](#contribute)
+
+## Status
+
+*Still a dream ..*
 
 ## Goals
 - Minimal responsive UI with great UX
@@ -31,10 +35,6 @@ Wolf is a small, fast and responsive 360º Product Viewer built with pure javasc
 ## Config Options
 
 **data-number-of-images**  *Integer (default: 36)* - number of images
-
-## Status
-
-Alpha
 
 ## Contribute
 Contributions are welcome and much appreciated!
