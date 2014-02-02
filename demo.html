@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Wolf 360 Product Viewer Demo</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Styling for the viewer -->
+        <link rel="stylesheet" href="css/wolf.css">
+    </head>
+    <body>
+
+        <!-- Div for the viewer -->
+        <div class="wolf-viewer">
+            <!-- Image to first photograph -->
+            <img src="img/product-A/product_001.jpg">
+        </div>
+
+        <!-- Get the latest jQuery through CDN or fallback on local version-->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/jquery-1.11.0.min.js"><\/script>')</script>
+
+        <!-- Include the viewer plugin -->
+        <script src="js/wolf.jquery.js"></script>
+
+        <!-- Include your own javascript to configure the viewer -->
+        <script src="js/main.js"></script>
+    </body>
+</html>

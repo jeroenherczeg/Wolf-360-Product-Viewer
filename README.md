@@ -16,7 +16,7 @@ Wolf is a small, fast and responsive 360º Product Viewer built with pure javasc
 - Minimal responsive UI with great UX
 - Easy to change style
 - Opinionated Configuration
-- Native javascript, no libraries (jQuery, Zepto, ...)
+- jQuery plugin
 - Lightweight
 - Fast
 - Code is easy to understand and changed
